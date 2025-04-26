@@ -16,6 +16,14 @@ A simple chatbot application demonstrating:
 - **Project Folder:** [chat_bot_app](chat_bot_app/) 
 - **Screenshots:** [screenshot1](screenshots/chat_bot_app1.png) & [screenshot2](screenshots/chat_bot_app2.png)
 
+### 🌤 Minimal Weather App
+A sleek, cross-platform Flutter application demonstrating:  
+- Real-time weather data fetched from the OpenWeatherMap API using your API key  
+- Automatic location permission handling to show current-location forecasts   
+- Dynamic Lottie animations that change based on conditions (sunny, rainy, cloudy, thunder)  
+- **Project Folder:** [minimal_weather_app](minimal_weather_app/) 
+- **Screenshots:** [screenshot1](screenshots/minimal_weather_app.png)
+
 ## Highlights 
 - Modular, easy-to-navigate folder structure 
 - Focus on learning key Flutter concepts: state management, UI design, API integration, and more
@@ -29,8 +37,13 @@ A simple chatbot application demonstrating:
 
 **For the Chatbot App only:**
 - A Dialogflow account with an enabled agent 
-- A service-account key in JSON file from Google Cloud 
-- Add the JSON File in assets folder of `chat_bot_app/` project, name the JSON file as follows `dialog_flow_auth.json`
+- A service-account key in JSON file from Google Cloud
+- Create an `assets` folder in [chat_bot_app](chat_bot_app/) 
+- Add the JSON File in `chat_bot_app/assets` folder, name the JSON file as follows `dialog_flow_auth.json`
+
+**For Minimal Weather App only:**
+- Obtain an Api Key from [Open Weather Map](https://openweathermap.org/)
+- Paste the Api Key into the [Weather Page](minimal_weather_app/lib/pages/weather_page.dart) where there is written "YOUR API KEY"
 
 ## Get Started 
 1. **Clone this repository** 
