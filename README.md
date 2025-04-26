@@ -13,8 +13,8 @@ A simple chatbot application demonstrating:
 - Real-time, conversational UI built in Flutter 
 - Integration with Dialogflow for natural language understanding 
 - Customizable bot responses 
-- **Project Folder:** `chat_bot_app/`
-- **Screenshots:** `screenshots/chat_bot_app1.png` & `screenshots/chat_bot_app2.png`
+- **Project Folder:** [chat_bot_app](chat_bot_app/) 
+- **Screenshots:** [screenshot1](screenshots/chat_bot_app1.png) & [screenshot2](screenshots/chat_bot_app2.png)
 
 ## Highlights 
 - Modular, easy-to-navigate folder structure 
