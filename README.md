@@ -14,7 +14,7 @@ A simple chatbot application demonstrating:
 - Integration with Dialogflow for natural language understanding 
 - Customizable bot responses 
 - **Project Folder:** `chat_bot_app/`
-- **Screenshots:** `Screenshots/chat_bot_app1.png` & `Screenshots/chat_bot_app2.png`
+- **Screenshots:** `screenshots/chat_bot_app1.png` & `screenshots/chat_bot_app2.png`
 
 ## Highlights 
 - Modular, easy-to-navigate folder structure 
