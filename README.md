@@ -17,12 +17,11 @@ A simple chatbot application demonstrating:
 - **Folder:** `chat_bot_app/`
 
 ## Screenshots 
-1. Chatbot App (Dialogflow)
-![Chatbot Screen 1](/screenshots/chat_bot_app1.png) ![Chatbot Screen 2](/screenshots/chat_bot_app2.png) 
+1. **Chatbot App (Dialogflow)**
 
+![Chatbot Screen 1](/screenshots/chat_bot_app1.png) ![Chatbot Screen 2](/screenshots/chat_bot_app2.png)
 ## Highlights 
 - Modular, easy-to-navigate folder structure 
-- Clean, commented code in each project 
 - Focus on learning key Flutter concepts: state management, UI design, API integration, and more
 - Ready-to-run examples—clone, `pub get`, and `flutter run` 
 
