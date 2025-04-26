@@ -3,7 +3,6 @@ A curated collection of mini Flutter projects and experiments built during my jo
 
 # Table of Contents
 -   [Included Projects](#included-projects)
--   [Screenshots](#screenshots)
 -   [Highlights](#highlights)
 -   [Prerequisites](#prerequisites)
 -   [Get Started](#get-started)
@@ -14,12 +13,9 @@ A simple chatbot application demonstrating:
 - Real-time, conversational UI built in Flutter 
 - Integration with Dialogflow for natural language understanding 
 - Customizable bot responses 
-- **Folder:** `chat_bot_app/`
+- **Project Folder:** `chat_bot_app/`
+- **Screenshots:** `Screenshots/chat_bot_app1.png` & `Screenshots/chat_bot_app2.png`
 
-## Screenshots 
-1. **Chatbot App (Dialogflow)**
-
-![Chatbot Screen 1](/screenshots/chat_bot_app1.png) ![Chatbot Screen 2](/screenshots/chat_bot_app2.png)
 ## Highlights 
 - Modular, easy-to-navigate folder structure 
 - Focus on learning key Flutter concepts: state management, UI design, API integration, and more
