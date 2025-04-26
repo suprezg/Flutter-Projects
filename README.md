@@ -1,5 +1,5 @@
 # FlutterSandboxProjects
-A curated collection of mini Flutter projects and experiments built during my journey learning Flutter and Dart. Each project explores different features, integrations, and best practices.
+A curated collection of Flutter projects and experiments built during my journey learning Flutter and Dart. Each project explores different features, integrations, and best practices.
 
 ## Table of Contents
 -   [Included Projects](#included-projects)
